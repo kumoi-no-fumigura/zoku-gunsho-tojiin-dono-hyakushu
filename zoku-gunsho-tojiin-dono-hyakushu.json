@@ -1312,6 +1312,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 7,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-tojiin-dono-hyakushu",
   "work": "等持院殿百首",
@@ -1324,7 +1328,7 @@
   "blocks": 7,
   "chars": 2492,
   "poems": 80,
-  "yaku": 0,
+  "yaku": 7,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T05:05:47+09:00"
